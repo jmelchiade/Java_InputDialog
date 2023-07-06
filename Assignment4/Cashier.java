@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-//verify cashier
+//verify cashier and inputs for program
 
 public class Cashier {
     private List<Item> items;
